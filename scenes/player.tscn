@@ -39,5 +39,5 @@ autoplay = "walking"
 frame_progress = 0.89089334
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1024469834]
-position = Vector2(4, -36)
+position = Vector2(2, -29)
 shape = SubResource("CircleShape2D_sweqy")
