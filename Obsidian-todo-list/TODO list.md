@@ -1,1 +1,1 @@
-lesgo i set this shit up
+I finally set it up lesgo
