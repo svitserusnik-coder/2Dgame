@@ -1,3 +1,17 @@
 # Godot 4+ specific ignores
 .godot/
 /android/
+
+# Import data
+.import/
+
+# Export files
+export.cfg
+export_presets.cfg
+
+# Mono / C# (if you use it later)
+.mono/
+
+# System files
+.DS_Store
+Thumbs.db
